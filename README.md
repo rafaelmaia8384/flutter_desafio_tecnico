@@ -1,17 +1,18 @@
-# flutter_desafio_tecnico
+# Desafio técnico em Flutter Web
 
-A new Flutter project.
+Este projeto contém o código demonstrando a solução para um desafio técnico em Flutter Web, com as funcionalidades de Login, Cadastro de usuários, Upload de arquivos, Download de arquivos, entre outros.
 
-## Getting Started
+## Como rodar
 
-This project is a starting point for a Flutter application.
+Rode o comando abaixo na pasta raiz do projeto.
+A flag "--disable-web-security" é necessária para utilizar a API sem CORS.
+```sh
+flutter run -d chrome --web-browser-flag "--disable-web-security"
+```
 
-A few resources to get you started if this is your first Flutter project:
+## Demonstração
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# flutter_desafio_tecnico
+<video  controls>
+  <source src="./recording/recording.mov" type="video/mp4">
+  Seu navegador não suporta o elemento de vídeo.
+</video>
