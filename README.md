@@ -11,3 +11,7 @@ flutter run -d chrome --web-browser-flag "--disable-web-security"
 ```
 
 ## Demonstração
+
+
+https://github.com/rafaelmaia8384/flutter_desafio_tecnico/assets/47631319/e48d80a0-ac58-4af0-bc54-15755c486a6a
+
