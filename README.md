@@ -12,7 +12,4 @@ flutter run -d chrome --web-browser-flag "--disable-web-security"
 
 ## Demonstração
 
-<video  controls>
-  <source src="./recording/recording.mov" type="video/mp4">
-  Seu navegador não suporta o elemento de vídeo.
-</video>
+[![Vídeo de demonstração](./recording/screenshot.png)](./recording/recording.mov)
