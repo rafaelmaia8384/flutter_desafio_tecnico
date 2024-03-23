@@ -11,5 +11,3 @@ flutter run -d chrome --web-browser-flag "--disable-web-security"
 ```
 
 ## Demonstração
-
-[![Vídeo de demonstração](./recording/screenshot.png)](./recording/recording.mov)
